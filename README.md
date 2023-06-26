@@ -13,7 +13,8 @@
 - <b>E-Commerce</b>
   - [Fullstack app](https://github.com/NicolasFrancken/ShoppingPage)
 
-<h2> 🤝 Connect with me</h2> [<img align="left" alt="NicolasFrancken | LinkedIn" width="22px" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
+<h2> 🤝 Connect with me</h2> 
+[<img align="left" alt="NicolasFrancken | LinkedIn" width="22px" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/nicolas-francken/
 
