@@ -1,23 +1,21 @@
-<h1>Hi, I'm Nicolas! <br/><a href="https://www.linkedin.com/in/nicolas-francken-661776252/">Web Developer<a/>
+<h1>Hi, I'm Nicolas! <br/><a href="https://www.linkedin.com/in/nicolas-francken">React Developer<a/>
 
 <h2>👨‍💻 My Proyects</h2>
 
-- <b>Full Stack Web App, E-Commerce App</b>
-  - [Practicing users manipulation, cookies, password encryption and node.js](https://github.com/NicolasFrancken/ShoppingPage.git)
-- <b>Movie Comparisson App with IMDB API</b>
-  - [Using info from API's](https://github.com/NicolasFrancken/MovieComparisonApp.git)
-- <b>Secret Message App</b>
-  - [Practicing Encryption](https://github.com/NicolasFrancken/MovieComparisonApp.git)
-- <b>Random Maze App</b>
-  - [Using "Matter" and understanding objects](https://github.com/NicolasFrancken/MazeApp.git)
-- <b>Timer App</b>
-  - [Understanding styling and browser requests](https://github.com/NicolasFrancken/TimerApp.git)
+- <b>My Portfolio</b>
+  - [Made with creativity, give it a try!](https://github.com/NicolasFrancken/Portfolio)
+- <b>Notes Web App</b>
+  - [Create, Read, Edit and Delete notes. Notes are saved in a JSON server.](https://github.com/NicolasFrancken/NoteCloud)
+- <b>Song Search Web App</b>
+  - [Search for a song and listen to a preview! Made with Deezer API](https://github.com/NicolasFrancken/Songy)
+- <b>Gym Landing Page</b>
+  - [A personalized landing page for an imaginary client.](https://github.com/NicolasFrancken/GYMATE)
+- <b>E-Commerce</b>
+  - [Fullstack app](https://github.com/NicolasFrancken/ShoppingPage)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="NicolasFrancken | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="NicolasFrancken | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="NicolasFrancken | LinkedIn" width="22px" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
 
-[instagram]: https://www.instagram.com/nicofrancken_ok/
 [linkedin]: https://www.linkedin.com/in/nicolas-francken/
 
