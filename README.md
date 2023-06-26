@@ -1,6 +1,6 @@
-<h1>Hi, I'm Nicolas! <br/><a href="https://www.linkedin.com/in/nicolas-francken">React Developer<a/>
+<h1>Hi, I'm Nicolas! <br/><a href="https://www.linkedin.com/in/nicolas-francken">Full-Stack React Developer<a/>
 
-<h2>👨‍💻 My Proyects</h2>
+<h2>💻 My Proyects</h2>
 
 - <b>My Portfolio</b>
   - [Made with creativity, give it a try!](https://github.com/NicolasFrancken/Portfolio)
@@ -13,9 +13,7 @@
 - <b>E-Commerce</b>
   - [Fullstack app](https://github.com/NicolasFrancken/ShoppingPage)
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="NicolasFrancken | LinkedIn" width="22px" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
+<h2> 🤝 Connect with me [<img align="left" alt="NicolasFrancken | LinkedIn" width="22px" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]</h2> 
 
 [linkedin]: https://www.linkedin.com/in/nicolas-francken/
 
