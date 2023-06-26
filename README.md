@@ -14,7 +14,9 @@
   - [Fullstack app](https://github.com/NicolasFrancken/ShoppingPage)
 
 <h2> 🤝 Connect with me</h2> 
-[<img align="left" alt="NicolasFrancken | LinkedIn" width="25px" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
+
+<a href="https://www.linkedin.com/in/nicolas-francken/"><img align="left" alt="NicolasFrancken | LinkedIn" width="25px" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg" /></a>
+[<img align="left" alt="NicolasFrancken | LinkedIn" width="25px" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg" >][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/nicolas-francken/
 
