@@ -32,14 +32,14 @@ As a Full-Stack Developer, I turn ideas into code. I am capable of handling any 
 
 ## Technologies 🛠️
 
-- <b>Programming Languages</b>: Javascript/Typescript
-- Front-end: React, Next, HTML, CSS
-- Back-end: Node, Express
-- Databases: SQL, NoSQL (MongoDB, MySQL, PostgrSQL)
-- Tools: Axios, Redux, RTK Query, Tailwind CSS, JWT, Cookies
+- <b>Programming Languages:</b> Javascript/Typescript
+- <b>Front-end:</b> React, Next, HTML, CSS
+- <b>Back-end:</b> Node, Express
+- <b>Databases:</b> SQL, NoSQL (MongoDB, MySQL, PostgrSQL)
+- <b>Tools:</b> Axios, Redux, RTK Query, Tailwind CSS, JWT, Cookies
 
 ## Contact 📬
-Connect with me on [LinkedIn](https://www.linkedin.com/in/nicolas-francken) or with an email at franckennicolas@gmail.com
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nicolas-francken) or by email at franckennicolas@gmail.com
 
 
 
