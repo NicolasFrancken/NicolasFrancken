@@ -5,7 +5,7 @@ Passionate Full Stack Web Developer.
 As a Full-Stack Developer, I turn ideas into interfaces. I am capable of handling any obstacles, challenges or problems. Being a focused and disciplined person make me a wise choice. Using all the tech I know, I can make attractive, interactive and professional websites.
 
 ## Featured Projects 💻
-- <b>[My Portfolio](https://github.com/NicolasFrancken/Portfolio)</b>
+- <h2>[My Portfolio](https://github.com/NicolasFrancken/Portfolio)</h2>
   - Made with creativity, give it a try!
   - React, CSS
 - <b>TO-DOs App</b>
