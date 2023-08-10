@@ -1,4 +1,7 @@
-<h1>Hi, I'm Nicolas! <br/><a href="https://www.linkedin.com/in/nicolas-francken">Full-Stack React Developer<a/>
+<h1>Hi, I'm Nicolas! <br/><a href="https://www.linkedin.com/in/nicolas-francken">Full-Stack Web Developer<a/>
+
+<h2>🤚 About me</h2>
+<p>As a Full-Stack Developer, I turn ideas into interfaces. I am capable of handling any obstacles, challenges or problems. Being a focused and disciplined person make me a wise choice. Using all the tech I know, I can make attractive, interactive and professional websites.</p>
 
 <h2>💻 My Proyects</h2>
 
