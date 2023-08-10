@@ -1,8 +1,8 @@
 # Hello, I'm <a href="https://www.linkedin.com/in/nicolas-francken">Nico<a/>! 👋
-Passionate Full Stack Web Developer.
+# Full Stack Web Developer
 
 ## About Me 🚀
-As a Full-Stack Developer, I turn ideas into interfaces. I am capable of handling any obstacles, challenges or problems. Being a focused and disciplined person make me a wise choice. Using all the tech I know, I can make attractive, interactive and professional websites.
+As a Full-Stack Developer, I turn ideas into code. I am capable of handling any obstacles, challenges or problems. Being a focused and disciplined person make me a wise choice. Using all the tech I know, I can make attractive, interactive, useful and professional websites.
 
 ## Featured Projects 💻
 - <b>My Portfolio</b>
@@ -31,9 +31,8 @@ As a Full-Stack Developer, I turn ideas into interfaces. I am capable of handlin
   - [Repository](https://github.com/NicolasFrancken/ShoppingPage)
 
 ## Technologies 🛠️
-Here are some of the technologies I work with:
 
-- Programming Languages: Javascript/Typescript
+- <b>Programming Languages</b>: Javascript/Typescript
 - Front-end: React, Next, HTML, CSS
 - Back-end: Node, Express
 - Databases: SQL, NoSQL (MongoDB, MySQL, PostgrSQL)
