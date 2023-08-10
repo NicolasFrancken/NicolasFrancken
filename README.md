@@ -19,7 +19,7 @@
   - [Fullstack app](https://github.com/NicolasFrancken/ShoppingPage)
     
 <h2>My Stack</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="25px"/>
 
 
 <h2> 🤝 Connect with me</h2> <a href="https://www.linkedin.com/in/nicolas-francken/" target="_blank"><img align="left" alt="NicolasFrancken | LinkedIn" width="25px" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg" /></a>
