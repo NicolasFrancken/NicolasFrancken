@@ -1,11 +1,11 @@
-# Hello, I'm <br/><a href="https://www.linkedin.com/in/nicolas-francken">Nico<a/>! 👋
+# Hello, I'm <a href="https://www.linkedin.com/in/nicolas-francken">Nico<a/>! 👋
 Passionate Full Stack Web Developer.
 
 ## About Me 🚀
 As a Full-Stack Developer, I turn ideas into interfaces. I am capable of handling any obstacles, challenges or problems. Being a focused and disciplined person make me a wise choice. Using all the tech I know, I can make attractive, interactive and professional websites.
 
 ## Featured Projects 💻
-- <h2>[My Portfolio](https://github.com/NicolasFrancken/Portfolio)</h2>
+- [My Portfolio](https://github.com/NicolasFrancken/Portfolio)
   - Made with creativity, give it a try!
   - React, CSS
 - <b>TO-DOs App</b>
