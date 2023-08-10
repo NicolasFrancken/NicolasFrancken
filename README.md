@@ -7,23 +7,28 @@ As a Full-Stack Developer, I turn ideas into interfaces. I am capable of handlin
 ## Featured Projects 💻
 - <b>My Portfolio</b>
   - Made with creativity, give it a try!
-  - React, CSS
+  - Tech: React, CSS
   - [Repository](https://github.com/NicolasFrancken/Portfolio)
 - <b>TO-DOs App</b>
-  - [Fullstack app (Users, Auth, CRUD, JWT)](https://github.com/NicolasFrancken/TO-DOs)
-  - Next, Node, Express, MongoDB, CSS
+  - Fullstack app (Users, Auth, CRUD, JWT)
+  - Tech: Next, Node, Express, MongoDB, CSS
+  - [Repository](https://github.com/NicolasFrancken/TO-DOs)
 - <b>Notes Web App</b>
-  - [Create, Read, Update and Delete notes. Notes are saved in a JSON server.](https://github.com/NicolasFrancken/NoteCloud)
-  - React, Redux, JSON-Server, CSS
+  - Create, Read, Update and Delete notes. Notes are saved in a JSON server
+  - Tech: React, Redux, JSON-Server, CSS
+  - [Repository](https://github.com/NicolasFrancken/NoteCloud)
 - <b>Song Search Web App</b>
-  - [Search for a song and listen to a preview! Made with Deezer API](https://github.com/NicolasFrancken/Songy)
-  - React, CSS
+  - Search for a song and listen to a preview! Made with Deezer API
+  - Tech: React, CSS
+  - [Repository](https://github.com/NicolasFrancken/Songy)
 - <b>Gym Landing Page</b>
-  - [A personalized landing page for an imaginary client.](https://github.com/NicolasFrancken/GYMATE)
-  - React, CSS
+  - A personalized landing page for an imaginary client
+  - Tech: React, CSS
+  - [Repository](https://github.com/NicolasFrancken/GYMATE)
 - <b>E-Commerce</b>
-  - [Fullstack app](https://github.com/NicolasFrancken/ShoppingPage)
-  - React, Node, Express
+  - Fullstack app
+  - Tech: React, Node, Express
+  - [Repository](https://github.com/NicolasFrancken/ShoppingPage)
 
 ## Technologies 🛠️
 Here are some of the technologies I work with:
