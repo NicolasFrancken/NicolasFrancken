@@ -8,6 +8,11 @@ As a Full-Stack Developer, I turn ideas into code. I am capable of handling any 
   - Made with creativity, give it a try!
   - Tech: React, CSS
   - [Repository](https://github.com/NicolasFrancken/Portfolio)
+  - - <b>Video Platform</b>
+  - Fullstack app (Users, Auth, CRUD, JWT)
+  - Tech: React, Node, Express, PostgreSQL, CSS
+  - [Repository (frontend)](https://github.com/NicolasFrancken/NicaVideo-Frontend)
+  - [Repository (backend)](https://github.com/NicolasFrancken/NicaVideo-Backend)
 - <b>TO-DOs App</b>
   - Fullstack app (Users, Auth, CRUD, JWT)
   - Tech: Next, Node, Express, MongoDB, CSS
