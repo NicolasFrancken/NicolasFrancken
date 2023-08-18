@@ -16,7 +16,7 @@ As a Full-Stack Developer, I turn ideas into code. I am capable of handling any 
 - <b>TO-DOs App</b>
   - Fullstack app (Users, Auth, CRUD, JWT)
   - Tech: Next, Node, Express, MongoDB, CSS
-  - [Repository](https://github.com/NicolasFrancken/TO-DOs)
+  - [Repository (frontend)](https://github.com/NicolasFrancken/TO-DOs)
 - <b>Notes Web App</b>
   - Create, Read, Update and Delete notes. Notes are saved in a JSON server
   - Tech: React, Redux, JSON-Server, CSS
