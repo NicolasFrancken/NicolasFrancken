@@ -5,7 +5,7 @@ As a Full-Stack Developer, I turn ideas into code. I am capable of handling any 
 
 ## Featured Projects 💻
 - <b>Classcript</b>
-  - Transcribe, Summarize and Study with AI
+  - Transcribe, Summarize, Chat and Study with AI
   - Tech: Next, Node, OpenAI, Langchain, Supabase
   - [Link](https://www.classcript.com/)
 - <b>My Portfolio</b>
