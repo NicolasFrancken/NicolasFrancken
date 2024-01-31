@@ -4,10 +4,6 @@
 As a Full-Stack Developer, I turn ideas into code. I am capable of handling any obstacles, challenges or problems. Being a focused and disciplined person make me a wise choice. Using all the tech I know, I can make attractive, interactive, useful and professional websites.
 
 ## Featured Projects 💻
-- <b>Classcript</b>
-  - Transcribe, Summarize, Chat and Study with AI
-  - Tech: Next, Node, OpenAI, Langchain, Supabase
-  - [Link](https://www.classcript.com/)
 - <b>My Portfolio</b>
   - Made with creativity, give it a try!
   - Tech: React, CSS
