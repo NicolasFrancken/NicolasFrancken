@@ -1,4 +1,4 @@
-# Hi, I'm <a href="https://www.linkedin.com/in/nicolas-francken">Nico<a/>! 👋 </br> <b>CEO @ LIKA Software, Full Stack Developer</b>
+# Hi, I'm <a href="https://www.linkedin.com/in/nicolas-francken">Nico<a/>! 👋 </br> <b>CEO @ LIKA Software 🤖 & Full Stack Developer 🧑🏻‍💻</b>
 
 ## About Me 🚀
 As the CEO of LIKA Software, I lead a dynamic team of over 10 individuals 💼 dedicated to empowering startups through our expertise and innovative solutions. We specialize in leveraging cutting-edge technologies 🚀, particularly in the world of artificial intelligence, to drive budding businesses toward success. Our mission is clear: to work closely with startups, using our know-how and resources to bring their visions to life. With a strong commitment to excellence, we not only overcome obstacles but thrive on the challenges that come our way.
