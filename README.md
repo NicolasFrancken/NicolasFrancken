@@ -19,6 +19,7 @@ In summary, as an experienced entrepreneur, influencer, and developer, I am comm
 
 ## Contact 📬
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nicolas-francken) or by email at franckennicolas@gmail.com
+My [TikTok](https://www.tiktok.com/@nicofrancken) 📱
 
 
 
