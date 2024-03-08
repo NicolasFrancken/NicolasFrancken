@@ -18,7 +18,7 @@ In summary, as an experienced entrepreneur, influencer, and developer, I am comm
 - <b>Tools:</b> Axios, Redux, RTK Query, Tailwind CSS, JWT, Cookies, etc.
 
 ## Contact 📬
-Connect with me on [LinkedIn](https://www.linkedin.com/in/nicolas-francken) or by email at franckennicolas@gmail.com
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nicolas-francken) or by email at team@likasoftware.com
 
 My [TikTok](https://www.tiktok.com/@nicofrancken) 📱
 
