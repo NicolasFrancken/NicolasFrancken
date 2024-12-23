@@ -1,13 +1,13 @@
 # Hi, I'm <a href="https://www.linkedin.com/in/nicolas-francken">Nico<a/>! 👋 </br> <b>CEO @ LIKA Software 🤖 & Full Stack Developer 🧑🏻‍💻</b>
 
 ## About Me 🚀
-As the CEO of LIKA Software, I lead a dynamic team of over 10 individuals 💼 dedicated to empowering startups through our expertise and innovative solutions. We specialize in leveraging cutting-edge technologies 🚀, particularly in the world of artificial intelligence, to drive budding businesses toward success. Our mission is clear: to work closely with startups, using our know-how and resources to bring their visions to life. With a strong commitment to excellence, we not only overcome obstacles but thrive on the challenges that come our way.
+As a software engineer with 7 years of experience, I excel in developing robust, scalable, and user-friendly applications using cutting-edge technologies such as Node.js, Nest.js, JavaScript, TypeScript, React.js and Next.js. My expertise spans both frontend and backend development, with a strong foundation in the MERN stack and experience building headless frontend applications like Progressive Web Applications.  
 
-In addition to my role at LIKA Software, I'm also an influential figure in the tech community with a TikTok following exceeding 41,000 devoted followers 📱. This platform allows me to engage with a diverse audience, sharing insights, and promoting the latest advancements in technology. My presence as a TikToker not only boosts our visibility but also strengthens our dedication to innovation and accessibility in the software development world.
+I’m highly skilled in serverless solutions using frameworks like CloudFormation, SAM, and Serverless Framework, as well as managing relational and non-relational databases. Proficient in tools like AWS Services, Git, Jira, and Postman, I thrive in agile environments such as Scrum and Kanban, delivering high-quality code that meets both technical and business requirements.  
 
-Moreover, I bring my expertise as a Backend Developer at Holafly, where I play an important role in ensuring the efficiency and scalability of our systems. My varied experience across different areas of software development equips me with a deep understanding of the industry, enabling me to deliver comprehensive solutions tailored to the unique needs of each project.
+My work focuses on creating intuitive user experiences, collaborating with cross-functional teams, and solving complex engineering challenges. I’m committed to clean code practices, code reviews, and fostering team growth through knowledge sharing. Additionally, I bring experience in microservices architecture, usability problem-solving, and driving innovative product roadmaps.  
 
-In summary, as an experienced entrepreneur, influencer, and developer, I am committed to driving the success of startups, both through LIKA Software and my individual contributions to the tech world. With a proven track record of delivering exceptional results, I stand ready to guide your venture toward unparalleled growth and prosperity. 🌟
+With a passion for continuous learning, I stay at the forefront of emerging technologies to deliver solutions that are efficient, secure, and scalable. Let’s connect to discuss how my technical expertise and collaborative approach can contribute to your team’s success!
 
 ## Technologies 🛠️
 
@@ -18,9 +18,10 @@ In summary, as an experienced entrepreneur, influencer, and developer, I am comm
 - <b>Tools:</b> Axios, Redux, RTK Query, Tailwind CSS, JWT, Cookies, etc.
 
 ## Contact 📬
-Connect with me on [LinkedIn](https://www.linkedin.com/in/nicolas-francken) or by email at team@likasoftware.com
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nicolas-francken) or by email at hello@nicofrancken.me
 
 My [TikTok](https://www.tiktok.com/@nicofrancken) 📱
+My [Instagrma](https://www.instagram.com/nicoofrancken/) 📱
 
 
 
