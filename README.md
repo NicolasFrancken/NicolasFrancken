@@ -1,4 +1,4 @@
-# Hi, I'm <a href="https://www.linkedin.com/in/nicolas-francken">Nico<a/>! 👋 </br> <b>CEO @ LIKA Software 🤖 & Full Stack Developer 🧑🏻‍💻</b>
+# Hi, I'm <a href="https://www.linkedin.com/in/nicolas-francken">Nico<a/>! 👋 </br> <b>Full Stack Developer 🧑🏻‍💻</b>
 
 ## About Me 🚀
 As a software engineer with 7 years of experience, I excel in developing robust, scalable, and user-friendly applications using cutting-edge technologies such as Node.js, Nest.js, JavaScript, TypeScript, React.js and Next.js. My expertise spans both frontend and backend development, with a strong foundation in the MERN stack and experience building headless frontend applications like Progressive Web Applications.  
@@ -11,11 +11,16 @@ With a passion for continuous learning, I stay at the forefront of emerging tech
 
 ## Technologies 🛠️
 
-- <b>Programming Languages:</b> Javascript/Typescript, HTML, CSS
-- <b>Front-end:</b> React, Next
-- <b>Back-end:</b> Node, Express, Nest
-- <b>Databases:</b> SQL, NoSQL (MongoDB, MySQL, PostgrSQL)
-- <b>Tools:</b> Axios, Redux, RTK Query, Tailwind CSS, JWT, Cookies, etc.
+- <b>Programming Languages:</b> Javascript/Typescript, HTML, CSS, Python 
+- <b>Front-end:</b> React, Next.js, Vue.js, Svelte, Webpack, Vite, Storybook  
+- <b>Back-end:</b> Node.js, Express, NestJS, Koa, Fastify, Deno, GraphQL (Apollo/Relay)  
+- <b>Databases:</b> SQL (PostgreSQL, MySQL, SQLite, MS SQL), NoSQL (MongoDB, DynamoDB, Couchbase, Cassandra), Graph Databases (Neo4j), Time-Series Databases (InfluxDB)  
+- <b>DevOps/Cloud:</b> AWS (EC2, S3, Lambda, RDS, CloudFront), Docker, Kubernetes, GitLab CI/CD, GitHub Actions, Azure, Google Cloud Platform, Digital Ocean
+- <b>Message Brokers:</b> RabbitMQ, Kafka
+- <b>Monitoring & Logging:</b> ELK Stack (Elasticsearch, Logstash, Kibana), Datadog
+- <b>Testing:</b> Jest, Cypress, Mocha, Postman, Supertest 
+- <b>Security:</b> OWASP Best Practices, JWT, OAuth2, SSO, Security Auditing Tools (SonarQube, Burp Suite)  
+- <b>Tools:</b> Tailwind CSS, Figma (for prototyping), Redis, WebSockets
 
 ## Contact 📬
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nicolas-francken) or by email at hello@nicofrancken.me
