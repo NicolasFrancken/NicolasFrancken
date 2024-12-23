@@ -21,7 +21,8 @@ With a passion for continuous learning, I stay at the forefront of emerging tech
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nicolas-francken) or by email at hello@nicofrancken.me
 
 My [TikTok](https://www.tiktok.com/@nicofrancken) 📱
-My [Instagrma](https://www.instagram.com/nicoofrancken/) 📱
+
+My [Instagram](https://www.instagram.com/nicoofrancken/) 📱
 
 
 
